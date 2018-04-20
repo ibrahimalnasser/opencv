@@ -37,7 +37,7 @@ LIBS += C:\opencv\opencv\release\bin\libopencv_highgui320.dll
 LIBS += C:\opencv\opencv\release\bin\libopencv_imgcodecs320.dll
 LIBS += C:\opencv\opencv\release\bin\libopencv_imgproc320.dll
 LIBS += C:\opencv\opencv\release\bin\libopencv_calib3d320.dll
-
+LIBS += C:\opencv\opencv\release\bin\libopencv_videoio320.dll
 
 
 # more correct variant, how set includepath and libs for mingw
